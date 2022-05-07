@@ -8,6 +8,8 @@ body{
     align-items: center;
     height: 100vh;
     overflow: hidden;
+    background-image: linear-gradient(to bottom,#090979,#00d4ff);
+
 }
 
 .search {
@@ -23,3 +25,4 @@ body{
     width: 50px ;
     transition: width 0.3s ease;
 }
+
