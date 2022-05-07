@@ -9,3 +9,8 @@ body{
     height: 100vh;
     overflow: hidden;
 }
+
+.search {
+    position: relative;
+    height: 50px;
+}
